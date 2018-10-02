@@ -180,6 +180,7 @@ body {
     color: #E95D0F;
     background: white ;
     border: 10px solid #E95D0F;
+    cursor: pointer;
 }
 
 #reset:hover {
